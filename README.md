@@ -13,4 +13,4 @@
 - [Некоторые мои работы в Blender](https://github.com/horityfoxy/resume/tree/main/Blender)
 - [Дизайн](https://github.com/horityfoxy/resume/tree/main/Design)
 - [Unity](https://github.com/horityfoxy/resume/tree/main/Unity)
-- [Динамическая таблица умножения на C++]()
+- [Динамическая таблица умножения на C++](https://github.com/horityfoxy/resume/blob/main/C%2B%2B/MultiplicationTable.cpp)
