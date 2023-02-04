@@ -4,6 +4,10 @@
 #### Продублирую ссылки на мои гайды. В них можно обнаружить код :)
 - [Моё видео по сохранению прогресса в Godot](https://youtu.be/5NgE_IJVtmk)
 - [Моё видео по локализации игры в Godot](https://youtu.be/yHgU3tU0Nw0)
+
+#### Еще найти код можно тут:
+- [Код закрытия игры](https://github.com/horityfoxy/resume/blob/main/Godot/Script1.gd)
+- [Код открытия двери, которая закрыта доской (взаимодействие предмета из инвентаря, доски и двери)](https://github.com/horityfoxy/resume/blob/main/Godot/Script2.gd)
 ---
 ##### Это я создал растровый шрифт для своего pet-проекта в Godot 3
 ![MyFont](MyFont.png)
