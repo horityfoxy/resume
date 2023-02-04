@@ -7,7 +7,6 @@
 - [Моё видео по сохранению прогресса в Godot](https://youtu.be/5NgE_IJVtmk)
 - [Моё видео по локализации игры в Godot](https://youtu.be/yHgU3tU0Nw0)
 
-<table><tr><td><img src='maxresdefault.jpg'></td></tr><tr><td><img src='max1resdefault.jpg'></td></tr></table>
 ---
 #### Портфолио:
 - [Godot](https://github.com/horityfoxy/resume/tree/main/Godot)
