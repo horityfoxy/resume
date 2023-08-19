@@ -1,6 +1,8 @@
 # Blender
 ### У меня есть несколько проектов, которые я могу показать :)
 ##### Вот недавние:
+![img](donut.png)
+
 ![img](res1.png)
 - [Модель на SketchFab](https://sketchfab.com/3d-models/a-jar-with-a-dangerous-metallic-liquid-72e0458ae91c48079087c68565e874f1)
 
