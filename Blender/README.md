@@ -1,7 +1,7 @@
 # Blender
 ### У меня есть несколько проектов, которые я могу показать :)
 ##### Вот недавние:
-##### Сцена в Blender [ссылка на ютуб](https://youtu.be/dYtAC_AMAZg):
+-  Сцена в Blender [ссылка на ютуб](https://youtu.be/dYtAC_AMAZg):
 ![img](0020.png)
 
 ![img](donut.png)
@@ -11,6 +11,8 @@
 
 ![img](res.png)
 - [Модель на SketchFab](https://sketchfab.com/3d-models/keyboard-4f775cf34aff443680a65c7061d9ebe7)
+
+
 ##### Это модельки из моего последнего pet-проекта. Они в cartoon стиле
 ![img](CartoonGame.png)
 ![img](CartoonGame1.png)
