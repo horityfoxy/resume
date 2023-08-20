@@ -1,6 +1,9 @@
 # Blender
 ### У меня есть несколько проектов, которые я могу показать :)
 ##### Вот недавние:
+###### Сцена в Blender [ссылка на ютуб](https://youtu.be/dYtAC_AMAZg):
+![img](donut.png)
+
 ![img](donut.png)
 
 ![img](res1.png)
