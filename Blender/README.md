@@ -1,7 +1,7 @@
 # Blender
 ### У меня есть несколько проектов, которые я могу показать :)
 ##### Вот недавние:
-![img](untitled.png)
+![img](untitled.jpg)
 
 -  Сцена в Blender, [ссылка на ютуб](https://youtu.be/dYtAC_AMAZg):
 
